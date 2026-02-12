@@ -1,3 +1,13 @@
+## About project
+
+Simple Laravel API tasks project
+
+- Use API/Sanctum
+- Authorized CRUD tasks routes (domain.net/api/v1/tasks) and logout (domain.net/api/v1/logout)
+- Register (domain.net/api/v1/register) and login (domain.net/api/v1/login) user
+- Use bearer token for authorization
+- Request's rate limiting
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
